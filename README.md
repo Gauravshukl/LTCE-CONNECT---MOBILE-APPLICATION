@@ -22,9 +22,4 @@ User Databases
 Problem solution
 E-NoticeBoard
 Hackathons
-Screenshots 📱
-Screenshot 2022-12-04 034524 Screenshot 2022-12-04 034615
 
-Screenshot 2022-12-04 034723 Screenshot 2022-12-04 035148
-
-Screenshot 2022-12-04 035433
